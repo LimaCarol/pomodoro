@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #FDF2F5;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#card {
+  background-color: #FFFFFF;
+  border: 2px solid #DFEEFD;
+  border-radius: 10px;
+  width: 500px;
+  box-shadow: 4px 4px 0px #DFEEFD;
+  overflow: hidden;
+}
+
+#card::before {
+  content: '• • •';
+  display: block;
+  background-color: #DFEEFD;
+  color: #87ACD3;
+  font-size: 12px;
+  padding: 6px 12px;
+  letter-spacing: 4px;
+  border-bottom: 2px solid #87ACD3;
+}
+
+#conteudo {
+  padding: 30px 20px;
+  text-align: center;
+}
+
+#timer {
+  font-size: 36px;
+  color: #7fb5ee;
+  margin-bottom: 8px;
+}
+
+#modo {
+  font-size: 8px;
+  color: #A1C1E0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  line-height: 1.8;
+}
+
+#gif {
+  width: 120px;
+  margin: 16px 0;
+}
+
+button {
+  background-color: #c5d6e8;
+  border: 2px solid #87ACD3;
+  border-radius: 6px;
+  padding: 8px 16px;
+  margin: 4px;
+  font-size: 7px;
+  color: #5a9ce2;
+  cursor: pointer;
+  font-family: 'Press Start 2P', cursive;
+}
+
+button:hover {
+  background-color: #87ACD3;
+  color: white;
+}

@@ -2,23 +2,24 @@
 
 Um app de pomodoro fofo e pixel art com o Cinnamoroll! ˚ʚ♡ɞ˚
 
-![preview](gifs/foco.gif)
+![preview](gifs/pomodoro.png)
+![preview](gifs/pomodoro2.png)
 
 ## ✨ Funcionalidades
 
-- ⏱️ Timer de 25 minutos de foco
-- ☕ Timer de 5 minutos de pausa
-- 🎮 Visual 8bit / pixel art
-- 🐰 Gif do Cinnamoroll que muda conforme o modo
-- ▶️ Botões de iniciar, pausar, resetar e forçar break
+- Timer de 25 minutos de foco
+- Timer de 5 minutos de pausa
+- Visual 8bit / pixel art
+- Gif do Cinnamoroll que muda conforme o modo
+- Botões de iniciar, pausar, resetar e forçar break
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 - JavaScript
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone o repositório:
 ```bash
@@ -40,7 +41,3 @@ pomodoro/
     ├── foco.gif
     └── descanso.gif
 ```
-
----
-
-Feito com 🩵 por [LimaCarol](https://github.com/LimaCarol)

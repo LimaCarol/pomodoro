@@ -11,7 +11,7 @@ Um app de pomodoro fofo e pixel art com o Cinnamoroll! ˚ʚ♡ɞ˚
 - Timer de 5 minutos de pausa
 - Visual 8bit / pixel art
 - Gif do Cinnamoroll que muda conforme o modo
-- Botões de iniciar, pausar, resetar e forçar break
+- Botões de iniciar, pausar e resetar 
 
 ## Tecnologias
 
